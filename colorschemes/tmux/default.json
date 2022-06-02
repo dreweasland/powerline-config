@@ -1,14 +1,14 @@
 {
 	"groups": {
-		"active_window_status": {"fg": "white",   	 "bg": "butch",    "attrs": []},
-		"window_status":        {"fg": "gray70",     "bg": "butch",    "attrs": []},
-		"activity_status":      {"fg": "yellow",     "bg": "butch",    "attrs": []},
-		"bell_status":          {"fg": "red",        "bg": "butch",    "attrs": []},
-		"window":               {"fg": "brightgreen","bg": "butch",    "attrs": []},
-		"window:divider":       {"fg": "white",      "bg": "butch",    "attrs": []},
-		"window:current":       {"fg": "black",	     "bg": "white", 	 "attrs": []},
-		"window_name":          {"fg": "black",      "bg": "white", 	 "attrs": ["bold"]},
-		"session":              {"fg": "white",      "bg": "butch",    "attrs": ["bold"]},
-		"session:prefix":       {"fg": "black",      "bg": "white",  	 "attrs": ["bold"]}
+		"active_window_status": {"fg": "catch22text",      "bg": "catch22fg",    "attrs": []},
+		"window_status":        {"fg": "catch22text",     "bg": "catch22fg",    "attrs": []},
+		"activity_status":      {"fg": "yellow",     "bg": "catch22fg",    "attrs": []},
+		"bell_status":          {"fg": "red",        "bg": "catch22fg",    "attrs": []},
+		"window":               {"fg": "catch22text",      "bg": "catch22fg",    "attrs": []},
+		"window:divider":       {"fg": "catch22text",      "bg": "catch22fg",    "attrs": []},
+		"window:current":       {"fg": "black",	     "bg": "catch22fg", 	 "attrs": ["bold"]},
+		"window_name":          {"fg": "white",      "bg": "catch22fg", 	 "attrs": []},
+		"session":              {"fg": "white",      "bg": "catch22fg",    "attrs": ["bold"]},
+		"session:prefix":       {"fg": "black",      "bg": "catch22fg",  	 "attrs": ["bold"]}
 	}
 }

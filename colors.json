@@ -25,7 +25,10 @@
 		"brightestred": 196,
 
 		"butch": 65,
-		"butch2": 66,
+
+		"catch22bg": 0,
+		"catch22fg": 202,
+		"catch22text": 235,
 
 		"darkestpurple": 55,
 		"mediumpurple": 98,
